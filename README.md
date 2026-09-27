@@ -10,8 +10,6 @@ Its core is **WebCore**: a local representation of the application that stores r
 
 **Your agent reasons. AgentBurp captures, remembers, retrieves, and executes supported operations.** An optional small local model helps select relevant evidence; it does not replace the proxy or your main coding agent.
 
-> **Status: final-product blueprint, not a released product.** Everything described as an AgentBurp capability is planned. Commands, tool names, directory layouts, and examples are proposed interfaces. There is no published installation package, validated compatibility matrix, trained AgentBurp model, or measured token-saving claim in this README.
-
 ---
 
 ## Contents
